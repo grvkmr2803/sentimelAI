@@ -138,7 +138,7 @@ def compute_metrics(df):
 
 init_db()
 
-st.title("📰 SentinelAI – News Sentiment Intelligence")
+st.title("📰 SentimelAI – News Sentiment Intelligence")
 st.markdown(
     "**Transformer-powered sentiment analysis with confidence-weighted aggregation**"
 )
